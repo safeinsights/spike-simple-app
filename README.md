@@ -34,3 +34,7 @@ npm run deploy
 The CDK config is located in the [cdk](cdk/) directory.
 
 App will be deployed to `https://demo.sandbox.safeinsights.org/`
+
+test pilot 1
+test pilot 2
+
